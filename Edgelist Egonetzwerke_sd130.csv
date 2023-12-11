@@ -1,0 +1,13 @@
+from,to,weight
+SD,JL,2
+SD,PH,2
+SD,LZ,2
+LZ,PH,2
+LZ,JL,1
+LZ,SD,2
+JL,SD,2
+JL,LZ,1
+JL,PH,2
+PH,SD,2
+PH,JL,2
+PH,LZ,2
